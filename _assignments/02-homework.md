@@ -1,8 +1,8 @@
 ---
-title: First Assignment
+title: Second Assignment
 ---
 
-Due in class on **MM DD**.
+Due in class on **Sept 10**.
 
 ### Problems
 
