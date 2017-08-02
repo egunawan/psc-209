@@ -9,7 +9,7 @@ layout: default
 This is the course website for **{{site.data.course.number}}**:
 {{site.data.course.name}}.
 
-Fall 2017 {{site.data.course.name}} (Section 002)
+{{site.data.course.term}} {{site.data.course.name}} (Section {{site.data.course.section}})
 -------
 
 * [Instructor's contact info and schedule](https://egunawan.github.io/index.html)
