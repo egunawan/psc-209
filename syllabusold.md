@@ -1,6 +1,6 @@
 ---
 title: Syllabus and General Info
-permalink: syllabus/
+permalink: syllabusold/
 ---
 
 * Instructor ([see availability here](../contact/ "Instructors' Contact Info")):
